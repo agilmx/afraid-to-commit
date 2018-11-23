@@ -16,3 +16,5 @@ on irc.freenode.net for their endless online help.
 ... and if I have neglected to mention someone, please let me know.
 
 Please feel free to use and adapt the tutorial.
+
+I want to contribute
